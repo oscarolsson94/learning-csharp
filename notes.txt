@@ -11,3 +11,19 @@ C# = programming language
 #RANDOM FACTS:
 Namespace = Container for related Classes
 Assembly (DLL or EXE) = Container for related Namespaces, a file
+
+
+#Language:
+int number;
+
+const float Pi = 3.14f; //const has to be initialized with a value. Cannot be changed.
+			//use Capital letter when declaring constants
+byte number = 2;
+int count = 10;
+float totalPrice = 20.95f;
+char character = 'A';
+string firstName = "Oscar";
+bool isWorking = false;
+
+var number = 2; //automatically assigns the value to int, as it is the standard for whole numbers
+var number = 2.5; //automatically assigns the value to double, as it is the standard for decimal numbers
