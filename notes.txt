@@ -27,3 +27,5 @@ bool isWorking = false;
 
 var number = 2; //automatically assigns the value to int, as it is the standard for whole numbers
 var number = 2.5; //automatically assigns the value to double, as it is the standard for decimal numbers
+
+Console.WriteLine("{0} {1}, byte.MinValue, byte.MaxValue"); //template string, inserts the values into the brackets
