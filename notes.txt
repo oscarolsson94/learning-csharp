@@ -1,0 +1,13 @@
+C# vs .NET
+
+C# = programming language
+
+
+.NET = framework for building apps on Windows
+- CLR (Common Language Runtime)
+    translates IL Code to machine code (Just-in-time compilation) JIT
+- Class Library
+
+#RANDOM FACTS:
+Namespace = Container for related Classes
+Assembly (DLL or EXE) = Container for related Namespaces, a file
